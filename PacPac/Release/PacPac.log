@@ -1,0 +1,13 @@
+﻿  GameSession.cpp
+D:\EdProjects\NureProjects\PacPac\PacPac\Screen.h(9,25): warning C4309: инициализация: усечение константного значения
+D:\EdProjects\NureProjects\PacPac\PacPac\GameSession.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\EdProjects\NureProjects\PacPac\PacPac\GameSession.cpp(59,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\EdProjects\NureProjects\PacPac\PacPac\GameSession.cpp(256,20): warning C4018: <: несоответствие типов со знаком и без знака
+  GameSettings.cpp
+D:\EdProjects\NureProjects\PacPac\PacPac\Screen.h(9,25): warning C4309: инициализация: усечение константного значения
+  Создание кода
+  5 of 865 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  PacPac.vcxproj -> D:\EdProjects\NureProjects\PacPac\Release\PacPac.exe

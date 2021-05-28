@@ -1,0 +1,8 @@
+﻿  Screen.cpp
+D:\EdProjects\NureProjects\PacPac\PacPac\Screen.h(9,25): warning C4309: инициализация: усечение константного значения
+D:\EdProjects\NureProjects\PacPac\PacPac\Screen.cpp(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\EdProjects\NureProjects\PacPac\PacPac\Screen.cpp(32,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\EdProjects\NureProjects\PacPac\PacPac\Screen.cpp(60,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\EdProjects\NureProjects\PacPac\PacPac\Screen.cpp(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\EdProjects\NureProjects\PacPac\PacPac\Screen.cpp(111,20): warning C4018: <: несоответствие типов со знаком и без знака
+  PacPac.vcxproj -> D:\EdProjects\NureProjects\PacPac\Debug\PacPac.exe
